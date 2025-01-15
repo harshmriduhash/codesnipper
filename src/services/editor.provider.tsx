@@ -3,7 +3,6 @@
 import { LenguageProps, SizeProps } from "@/types";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { createContext, useContext, useEffect, useMemo, useState } from "react";
-
 import { findLanguage, findSize } from "@/utils/language";
 import { controlThemes, defaultMode, defaultTab } from "@/constants";
 import GetCode from "@/utils/chose-random-code-snippet";
