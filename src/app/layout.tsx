@@ -33,7 +33,7 @@ export default function RootLayout({
               <Header />
               <main className="min-h-[calc(100vh-135px)]">{children}</main>
             </div>
-{/*             <Footer /> */}
+            {/*             <Footer /> */}
           </Provider>
         </Suspense>
       </body>
