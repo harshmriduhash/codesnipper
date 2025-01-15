@@ -50,7 +50,6 @@ export function ImageBoxProvider({ children }: ImageBoxProviderProps) {
   const searchParams = useSearchParams();
   const SetSearchParams = new URLSearchParams(searchParams.toString());
   const pathname = usePathname();
-
   const defaultTheme = useMemo(() => {
     return themes.find((t) => t?.default === true) ?? themes[0];
   }, []);
