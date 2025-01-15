@@ -8,7 +8,6 @@ import { controlThemes, defaultMode, defaultTab } from "@/constants";
 import GetCode from "@/utils/chose-random-code-snippet";
 import { removeParams, setToUrl } from "@/utils/params";
 import createUrl from "@/utils/create-url";
-
 import { sizes } from "@/constants";
 interface CodeBoxContextProps {
   defaultValues: {
