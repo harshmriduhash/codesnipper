@@ -1,21 +1,18 @@
 <div align="center">
-<a href="https://github.com/ankurghosh7/code-image">
+<a href="https://github.com/harshmriduhash/codesnipper">
 <img src="public/logo.svg" alt="Logo" width="" height="80">
 </a>
-<h3 align="center">codeimage.ankurghosh.xyz</h3>
 <p align="center">
 Code snippets Image Generator! with Dark mode & stylish themes, 🔧 Adjustable padding, 💻 Multi-language syntax highlighting, Perfect for sharing code on socials or docs! 🚀
 <br/>
 <br/>
-<a href="https://code-image.ankurghosh.xyz/">View Demo.</a>  
-<a href="https://github.com/ankurghosh7/code-image/issues/new?labels=bug&amp;template=bug_report.md">Report Bug .</a>
-<a href="https://github.com/ankurghosh7/code-image/issues/new?labels=enhancement&amp;&template=feature_request.md">Request Feature</a>
+<a href="https://code-image-iidj288nx-harshs-projects-76ae4797.vercel.app/">View Demo.</a>
 </p>
 </div>
 
 ## 📍 Overview
 
-CodeImage is a code snippet image generator that allows you to create beautiful images of your code snippets. It is perfect for sharing code on social media or documentation. It supports multiple languages and themes, and you can customize the padding to fit your needs.
+Codesnipper is a code snippet image generator that allows you to create beautiful images of your code snippets. It is perfect for sharing code on social media or documentation. It supports multiple languages and themes, and you can customize the padding to fit your needs.
 
 ### Built With
 
