@@ -46,7 +46,7 @@ Before getting started with code-image, ensure your runtime environment meets th
 1. Clone the code-image main repository:
 
 ```sh
-❯ git clone https://github.com/ankurghosh7/code-image
+❯ git clone https://github.com/harshmriduhash/codesnipper
 ```
 
 2. Navigate to the project directory:
@@ -96,7 +96,3 @@ To run the application in development mode, execute the following command:
 ```sh
 ❯ pnpm dev
 ```
-
-## License
-
-Distributed under the Apache License. See [Mozilla Public License 2.0 License](https://github.com/ankurghosh7/code-image/blob/dev/LICENSE) for more information.
