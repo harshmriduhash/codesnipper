@@ -1,7 +1,3 @@
-<div align="center">
-<a href="https://github.com/harshmriduhash/codesnipper">
-<img src="public/logo.svg" alt="Logo" width="" height="80">
-</a>
 <p align="center">
 Code snippets Image Generator! with Dark mode & stylish themes, 🔧 Adjustable padding, 💻 Multi-language syntax highlighting, Perfect for sharing code on socials or docs! 🚀
 <br/>
